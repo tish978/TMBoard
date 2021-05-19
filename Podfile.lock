@@ -1,0 +1,16 @@
+PODS:
+  - LGButton (1.1.6)
+
+DEPENDENCIES:
+  - LGButton
+
+SPEC REPOS:
+  trunk:
+    - LGButton
+
+SPEC CHECKSUMS:
+  LGButton: 9f0a7f9d3030e3f504108342f6b66d64a429371b
+
+PODFILE CHECKSUM: 96022fa19b643a14ea4bac11ae0edd0ffa75b842
+
+COCOAPODS: 1.10.1

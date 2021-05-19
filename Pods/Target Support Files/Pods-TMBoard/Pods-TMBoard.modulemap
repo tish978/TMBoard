@@ -1,0 +1,6 @@
+framework module Pods_TMBoard {
+  umbrella header "Pods-TMBoard-umbrella.h"
+
+  export *
+  module * { export * }
+}
